@@ -1,0 +1,27 @@
+.card{
+    /* padding : 10px; */
+    margin: auto;
+    box-sizing: border-box;
+    background-color: rgb(94, 103, 103);
+    color : white;
+    text-align: left;
+    border-radius: 4px;
+    box-shadow: 5px 5px 30px rgb(98, 91, 91);
+    
+}
+h1{
+    margin:0px;
+    text-align: center;
+    background-color: aqua;
+    color : black;
+    padding :10px;
+}
+h2{
+    padding:0 0 0 10px;
+}
+h3{
+    padding:0 0 0 10px;
+}
+h4{
+    padding:0 0 0 10px;
+}
