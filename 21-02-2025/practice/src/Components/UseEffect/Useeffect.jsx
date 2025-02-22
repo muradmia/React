@@ -6,14 +6,14 @@ const Useeffect = () => {
 const [count,setCount] = useState(0);
 
 useEffect(()=>{
-        alert('hello')
+      alert('hello')
 },[])
 
 useEffect(()=>{
     alert('Change')
 },[count  ])
 const updateCounter = () =>{
-   newCounter = setCount(count+1);
+   const newCounter = setCount(count+1);
    setCount = newCounter;
 }
   return (

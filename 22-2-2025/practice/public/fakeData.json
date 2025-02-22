@@ -1,0 +1,48 @@
+[
+    {
+      "id": 1,
+      "name": "John Doe",
+      "age": 29,
+      "profession": "Software Engineer",
+      "email": "johndoe@example.com",
+      "phone": "+1-555-123-4567",
+      "image": "https://randomuser.me/api/portraits/men/1.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "age": 34,
+      "profession": "Graphic Designer",
+      "email": "janesmith@example.com",
+      "phone": "+1-555-987-6543",
+      "image": "https://randomuser.me/api/portraits/women/2.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Mike Johnson",
+      "age": 41,
+      "profession": "Data Analyst",
+      "email": "mikejohnson@example.com",
+      "phone": "+1-555-234-5678",
+      "image": "https://randomuser.me/api/portraits/men/3.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Emily Davis",
+      "age": 27,
+      "profession": "Marketing Manager",
+      "email": "emilydavis@example.com",
+      "phone": "+1-555-345-6789",
+      "image": "https://randomuser.me/api/portraits/women/4.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Robert Brown",
+      "age": 38,
+      "profession": "Project Manager",
+      "email": "robertbrown@example.com",
+      "phone": "+1-555-456-7890",
+      "image": "https://randomuser.me/api/portraits/men/5.jpg"
+    }
+  ]
+  

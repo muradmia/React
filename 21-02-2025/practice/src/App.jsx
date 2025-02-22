@@ -4,6 +4,7 @@ import viteLogo from '/vite.svg'
 import './App.css'
 import Data from './Components/Data/Data'
 import Useeffect from './Components/UseEffect/Useeffect'
+import Fetch from './Components/Fetch/Fetch'
 
 function App() {
   // const arrays =['murad','Tanvir','jadu','modu']
@@ -36,7 +37,8 @@ function App() {
   //   <h2>price : {price}</h2>
   //   <h3>price : {price}</h3>
   //   <h4>price : {price}</h4> */}
-  <Useeffect></Useeffect>
+  {/* <Useeffect></Useeffect> */}
+  <Fetch></Fetch>
     </>
   )
 }
