@@ -11,7 +11,7 @@ const reducer =(state,action)=>{
         case 'Success':
             return{
                 loading:false,
-                posts:action.result,
+                posts:action.db,
                 error:null,
             }
         case 'Error':
@@ -30,7 +30,7 @@ const GetPost2 = () => {
         fetch('https://jsonplaceholder.typicode.com/posts/1')
         .then(res => res.json())
         .then(data => {
-            dispatch({type:'Success',result:data})
+            dispatch({type:'Success',db:data})
         })
         .catch(() =>{
             dispatch({type:'Error'})
